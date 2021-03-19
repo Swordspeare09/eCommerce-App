@@ -1,0 +1,11 @@
+2021-03-16T16:35:28.105-0500 INFO Starting SareetaApplicationTests on DESKTOP-F0AP3GU with PID 13260 (started by corte in C:\Users\corte\Desktop\Udacity\Lesson 4\nd035-c4-Security-and-DevOps-master\starter_code)
+2021-03-16T16:35:28.106-0500 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-16T16:35:28.107-0500 INFO No active profile set, falling back to default profiles: default
+2021-03-16T16:35:33.037-0500 INFO Started SareetaApplicationTests in 5.125 seconds (JVM running for 6.677)
+2021-03-18T10:00:35.011-0500 DEBUG Creating username test
+2021-03-18T10:00:35.089-0500 INFO Created user with username, test.
+2021-03-18T10:00:35.110-0500 DEBUG Creating username test
+2021-03-18T10:00:35.111-0500 INFO Created user with username, test.
+2021-03-18T10:00:35.112-0500 INFO Found user with username, test.
+2021-03-18T10:00:35.113-0500 DEBUG Creating username test
+2021-03-18T10:00:35.114-0500 INFO Created user with username, test.

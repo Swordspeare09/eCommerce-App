@@ -1,0 +1,88 @@
+2021-03-16T16:31:05.122-0500 INFO Starting SareetaApplication on DESKTOP-F0AP3GU with PID 22192 (started by corte in C:\Users\corte\Desktop\Udacity\Lesson 4\nd035-c4-Security-and-DevOps-master)
+2021-03-16T16:31:05.131-0500 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-16T16:31:05.132-0500 INFO No active profile set, falling back to default profiles: default
+2021-03-16T16:31:11.165-0500 INFO Started SareetaApplication in 6.488 seconds (JVM running for 8.486)
+2021-03-16T16:33:18.887-0500 INFO Starting SareetaApplication on DESKTOP-F0AP3GU with PID 27376 (started by corte in C:\Users\corte\Desktop\Udacity\Lesson 4\nd035-c4-Security-and-DevOps-master)
+2021-03-16T16:33:18.897-0500 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-16T16:33:18.899-0500 INFO No active profile set, falling back to default profiles: default
+2021-03-16T16:33:23.806-0500 INFO Started SareetaApplication in 5.289 seconds (JVM running for 6.509)
+2021-03-16T16:35:11.811-0500 ERROR Could not find username, create.
+2021-03-16T16:42:15.119-0500 INFO Starting SareetaApplication on DESKTOP-F0AP3GU with PID 26932 (started by corte in C:\Users\corte\Desktop\Udacity\Lesson 4\nd035-c4-Security-and-DevOps-master)
+2021-03-16T16:42:15.126-0500 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-16T16:42:15.127-0500 INFO No active profile set, falling back to default profiles: default
+2021-03-16T16:42:19.812-0500 INFO Started SareetaApplication in 5.118 seconds (JVM running for 6.261)
+2021-03-16T16:46:11.931-0500 ERROR Could not find username, create.
+2021-03-16T16:51:52.281-0500 ERROR Could not find username, create.
+2021-03-16T16:59:04.361-0500 ERROR Could not find username, create.
+2021-03-16T16:59:57.498-0500 ERROR Could not find username, create.
+2021-03-16T17:00:15.851-0500 ERROR Could not find username, create.
+2021-03-16T17:10:08.854-0500 INFO Starting SareetaApplication on DESKTOP-F0AP3GU with PID 22724 (started by corte in C:\Users\corte\Desktop\Udacity\Lesson 4\nd035-c4-Security-and-DevOps-master)
+2021-03-16T17:10:08.865-0500 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-16T17:10:08.867-0500 INFO No active profile set, falling back to default profiles: default
+2021-03-16T17:10:13.513-0500 INFO Started SareetaApplication in 5.087 seconds (JVM running for 6.226)
+2021-03-16T17:10:33.734-0500 DEBUG Creating username test
+2021-03-17T09:48:44.044-0500 INFO Starting SareetaApplication on DESKTOP-F0AP3GU with PID 16940 (started by corte in C:\Users\corte\Desktop\Udacity\Lesson 4\nd035-c4-Security-and-DevOps-master)
+2021-03-17T09:48:44.051-0500 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-17T09:48:44.052-0500 INFO No active profile set, falling back to default profiles: default
+2021-03-17T09:48:48.998-0500 INFO Started SareetaApplication in 5.282 seconds (JVM running for 6.537)
+2021-03-17T09:50:38.504-0500 DEBUG Creating username test
+2021-03-17T09:54:15.862-0500 DEBUG Creating username test
+2021-03-17T10:05:18.744-0500 DEBUG Creating username test
+2021-03-17T10:07:02.781-0500 DEBUG Creating username test
+2021-03-17T10:07:02.877-0500 INFO Created user with username, test.
+2021-03-17T10:08:23.825-0500 INFO Found user with username, test.
+2021-03-18T09:40:30.522-0500 INFO Starting SareetaApplication on DESKTOP-F0AP3GU with PID 41476 (started by corte in C:\Users\corte\Desktop\Udacity\Lesson 4\nd035-c4-Security-and-DevOps-master)
+2021-03-18T09:40:30.530-0500 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-18T09:40:30.531-0500 INFO No active profile set, falling back to default profiles: default
+2021-03-18T09:40:36.235-0500 INFO Started SareetaApplication in 6.126 seconds (JVM running for 7.624)
+2021-03-18T09:45:31.162-0500 DEBUG Creating username test
+2021-03-18T09:46:21.282-0500 DEBUG Creating username test
+2021-03-18T09:47:59.943-0500 DEBUG Creating username test
+2021-03-18T09:48:12.885-0500 DEBUG Creating username test2
+2021-03-18T09:49:58.001-0500 DEBUG Creating username test2
+2021-03-18T10:03:45.905-0500 INFO Starting SareetaApplication on DESKTOP-F0AP3GU with PID 35724 (started by corte in C:\Users\corte\Desktop\Udacity\Lesson 4\nd035-c4-Security-and-DevOps-master)
+2021-03-18T10:03:45.921-0500 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-18T10:03:45.923-0500 INFO No active profile set, falling back to default profiles: default
+2021-03-18T10:03:50.765-0500 INFO Started SareetaApplication in 5.341 seconds (JVM running for 6.648)
+2021-03-18T10:04:16.702-0500 ERROR Could not find username, create.
+2021-03-18T10:04:38.095-0500 DEBUG Creating username test
+2021-03-18T10:07:24.848-0500 DEBUG Creating username test
+2021-03-18T10:11:20.455-0500 DEBUG Creating username test
+2021-03-18T10:11:35.895-0500 DEBUG Creating username test
+2021-03-18T10:12:00.414-0500 DEBUG Creating username test
+2021-03-18T10:12:07.671-0500 DEBUG Creating username test
+2021-03-18T10:12:20.558-0500 DEBUG Creating username test
+2021-03-18T10:12:33.820-0500 DEBUG Creating username test
+2021-03-18T10:14:18.932-0500 INFO Starting SareetaApplication on DESKTOP-F0AP3GU with PID 14896 (started by corte in C:\Users\corte\Desktop\Udacity\Lesson 4\nd035-c4-Security-and-DevOps-master)
+2021-03-18T10:14:18.937-0500 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-18T10:14:18.938-0500 INFO No active profile set, falling back to default profiles: default
+2021-03-18T10:14:23.364-0500 INFO Started SareetaApplication in 4.808 seconds (JVM running for 6.208)
+2021-03-18T10:14:29.209-0500 DEBUG Creating username test
+2021-03-18T10:14:32.969-0500 DEBUG Creating username test
+2021-03-18T10:14:42.708-0500 DEBUG Creating username test
+2021-03-18T10:15:09.724-0500 DEBUG Creating username test1
+2021-03-18T10:15:18.260-0500 DEBUG Creating username test
+2021-03-18T10:15:55.247-0500 ERROR Could not find username, test.
+2021-03-18T10:16:05.528-0500 ERROR Could not find username, test.
+2021-03-18T10:18:17.209-0500 DEBUG Creating username test
+2021-03-18T10:20:05.165-0500 INFO Starting SareetaApplication on DESKTOP-F0AP3GU with PID 48480 (started by corte in C:\Users\corte\Desktop\Udacity\Lesson 4\nd035-c4-Security-and-DevOps-master)
+2021-03-18T10:20:05.173-0500 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-18T10:20:05.174-0500 INFO No active profile set, falling back to default profiles: default
+2021-03-18T10:20:10.831-0500 INFO Started SareetaApplication in 6.022 seconds (JVM running for 8.098)
+2021-03-18T10:20:20.791-0500 INFO Starting SareetaApplication on DESKTOP-F0AP3GU with PID 54688 (started by corte in C:\Users\corte\Desktop\Udacity\Lesson 4\nd035-c4-Security-and-DevOps-master)
+2021-03-18T10:20:20.799-0500 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-18T10:20:20.800-0500 INFO No active profile set, falling back to default profiles: default
+2021-03-18T10:20:25.507-0500 INFO Started SareetaApplication in 5.06 seconds (JVM running for 6.318)
+2021-03-18T10:20:35.316-0500 DEBUG Creating username test
+2021-03-18T10:20:35.466-0500 INFO Created user with username, test.
+2021-03-18T10:20:53.223-0500 INFO Found user with username, test.
+2021-03-18T10:20:57.841-0500 ERROR Could not find username, test2.
+2021-03-18T10:21:01.939-0500 INFO Found user with username, test.
+2021-03-18T11:39:38.096-0500 INFO Starting SareetaApplication on DESKTOP-F0AP3GU with PID 57288 (started by corte in C:\Users\corte\Desktop\Udacity\Lesson 4\nd035-c4-Security-and-DevOps-master)
+2021-03-18T11:39:38.107-0500 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-18T11:39:38.109-0500 INFO No active profile set, falling back to default profiles: default
+2021-03-18T11:39:44.225-0500 INFO Started SareetaApplication in 6.787 seconds (JVM running for 8.367)
+2021-03-18T15:15:23.950-0500 INFO Starting SareetaApplication on DESKTOP-F0AP3GU with PID 40980 (started by corte in C:\Users\corte\Desktop\Udacity\Lesson 4\nd035-c4-Security-and-DevOps-master)
+2021-03-18T15:15:23.960-0500 DEBUG Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-03-18T15:15:23.963-0500 INFO No active profile set, falling back to default profiles: default
+2021-03-18T15:15:31.567-0500 INFO Started SareetaApplication in 8.378 seconds (JVM running for 10.134)
